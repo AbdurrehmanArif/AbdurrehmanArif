@@ -8,7 +8,7 @@
 
 ## 👑 About Me
 
-I'm an **AI & Agentic AI Developer** who completed my internship at **Saylani Mass IT Training School** and am currently pursuing an **Agentic AI course**. I have hands-on experience building Machine Learning models, Computer Vision systems, NLP projects, and AI-powered web applications.
+I'm an **AI Developer** currently doing my **AI Internship at Saylani Mass IT Training School (SMIT)** and simultaneously learning **Agentic AI**. I have hands-on experience building Machine Learning models, Computer Vision systems, NLP projects, and AI-powered web applications.
 
 I participated in the **AI Hackathon at Zaiton Ashraf IT Park (2025)** where I collaborated on building a **Job Trend Analyzer** under time constraints. I'm also a proud **Hafiz e Quran** 🌙.
 
@@ -104,9 +104,9 @@ When I'm not coding, you'll find me exploring new AI trends 🤖, reading 📚, 
 
 ## 📊 GitHub Stats
 
-![Abdurrehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Abdurrehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurrehmanArif&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrehmanArif&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
